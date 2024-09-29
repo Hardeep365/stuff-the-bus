@@ -27,7 +27,7 @@ body {
     text-transform: uppercase;
 }
 .sec-1 {
-    background-image: url(/stuffthebus/images/home-banner-top.webp);
+    background-image: url(/stuff-the-bus/images/home-banner-top.webp);
 }
 .main-sec-1 .main-sec-col-1 h3 {
     font-family: 'FONTSPRING DEMO - Integral CF';
@@ -69,7 +69,7 @@ body {
     text-transform: uppercase;
 }
 .sec-1 {
-    background-image: url(/stuffthebus/images/home-banner-top.webp);
+    background-image: url(/stuff-the-bus/images/home-banner-top.webp);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -330,7 +330,7 @@ body {
 }
 
 .last-sec-col-2 {
-    background-image: url('/stuffthebus/images/lastimg.webp'); /* Replace with the actual path to your image */
+    background-image: url('/stuff-the-bus/images/lastimg.webp'); /* Replace with the actual path to your image */
     background-size: cover;     /* Ensures the image covers the entire div */
     background-position: center; /* Centers the image */
     background-repeat: no-repeat; /* Prevents repeating */
@@ -409,7 +409,7 @@ div#toggle-menu nav a {
     margin-bottom: 20px;
 }
 .sec-1 {
-    background-image: url(/stuffthebus/images/mobileimg1.webp);
+    background-image: url(/stuff-the-bus/images/mobileimg1.webp);
 }
 .main-sec-1 {
     padding: 200px 0px;
